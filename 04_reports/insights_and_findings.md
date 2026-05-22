@@ -1,0 +1,6 @@
+📊 Key Business Insights
+Ownership Volume is a Vanity Metric: While "units sold" is traditionally championed as a primary success indicator, the data reveals a stark disconnect between acquisition and active engagement. Particularly on PC platforms, aggressive discounting and bundling artificially inflate ownership figures. This creates a misleading perception of an active player base, leading to miscalculated projections for post-launch monetization.
+
+Systemic Misallocation of Development Capital: Analysis of player drop rates exposes a severe skew toward early-stage churn. Consequently, the traditional development model—which heavily funds late-game content, elaborate final encounters, and end-game cinematics—yields an exceptionally poor Return on Investment (ROI). The data indicates that a vast majority of the player base simply abandons the game before reaching the content that commands the highest budget and time investments.
+
+Critical Acclaim Fuels Acquisition, Not Lifecycle Retention: High critical ratings act as a powerful top-of-funnel acquisition lever but fail to insulate titles against steep user attrition. While stellar reviews successfully drive initial sales, long-term retention is governed strictly by product design—specifically early-game pacing, onboarding friction, and core gameplay mechanics.
