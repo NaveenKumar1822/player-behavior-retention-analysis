@@ -222,7 +222,6 @@ player-behavior-retention-analysis/
 │       └── games_retention_cleaned.csv
 │
 ├── 02_notebooks/
-│   ├── data_cleaning_and_preparation.ipynb
 │   └── player_behavior_eda.ipynb
 │
 ├── 03_visuals/
