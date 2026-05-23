@@ -236,8 +236,8 @@ player-behavior-retention-analysis/
 ├── 05_docs/
 │   └── project_workflow.md
 │
-├── requirements.txt
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
